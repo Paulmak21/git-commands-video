@@ -18,3 +18,6 @@ Los comandos que veremos hoy van a ser los siguientes:
 9. git diff
 10. git checkout
 
+Aqui debajo el video explicativo:
+
+https://www.youtube.com/watch?v=okIzAvR3Ti0
